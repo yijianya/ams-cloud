@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.ams.common.redis.config.RedisConfig,\
+  com.ams.common.redis.util.RedisUtils
+
+
